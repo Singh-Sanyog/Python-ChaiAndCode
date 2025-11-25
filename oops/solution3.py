@@ -14,6 +14,7 @@ class ElectricCar(Car): #inheritace in working
         super().__init__(brand,model)
         self.battery_size=battery_size
 
+# todays work
 
 # my_car=Car("tata","neo")
 # print(my_car.brand)
